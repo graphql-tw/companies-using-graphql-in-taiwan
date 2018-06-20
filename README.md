@@ -11,6 +11,7 @@ Collecting the companies using GraphQL.
 
 - [Yoctol](https://www.yoctol.com/)
 - [MediaTek](https://www.mediatek.tw/)
+- [Jioukou](https://jioukou.yosgo.com/)
 
 ## Contributing
 
