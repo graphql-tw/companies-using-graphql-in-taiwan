@@ -10,6 +10,7 @@ Collecting the companies using GraphQL.
 ## Companies
 
 - [Yoctol](https://www.yoctol.com/)
+- [MediaTek](https://www.mediatek.tw/)
 
 ## Contributing
 
