@@ -10,6 +10,7 @@ Collecting the companies using GraphQL.
 ## Companies
 
 - [Yoctol](https://www.yoctol.com/)
+- [Jioukou](https://jioukou.yosgo.com/)
 
 ## Contributing
 
