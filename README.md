@@ -13,6 +13,7 @@ Collecting the companies using GraphQL.
 - [MediaTek](https://www.mediatek.tw/)
 - [Jioukou](https://jioukou.yosgo.com/)
 - [Sligrid](https://sligrid.com/)
+- [Tagtoo](https://www.tagtoo.com.tw)
 
 ## Contributing
 
