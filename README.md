@@ -14,6 +14,7 @@ Collecting the companies using GraphQL.
 - [Jioukou](https://jioukou.yosgo.com/)
 - [Sligrid](https://sligrid.com/)
 - [Tagtoo](https://www.tagtoo.com.tw)
+- [Canner](https://www.canner.io)
 
 ## Contributing
 
