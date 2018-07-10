@@ -15,6 +15,7 @@ Collecting the companies using GraphQL.
 - [Sligrid](https://sligrid.com/)
 - [Tagtoo](https://www.tagtoo.com.tw)
 - [Canner](https://www.canner.io)
+- [Appier](https://appier.com)
 
 ## Contributing
 
