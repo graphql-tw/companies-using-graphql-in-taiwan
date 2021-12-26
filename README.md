@@ -16,6 +16,8 @@ Collecting the companies using GraphQL.
 - [Tagtoo](https://www.tagtoo.com.tw)
 - [Canner](https://www.canner.io)
 - [Appier](https://appier.com)
+- [Codementor](https://www.codementor.io/)
+- [iChef](https://www.ichefpos.com)
 
 ## Contributing
 
