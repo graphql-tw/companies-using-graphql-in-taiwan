@@ -18,6 +18,7 @@ Collecting the companies using GraphQL.
 - [iChef](https://www.ichefpos.com)
 - [Jioukou](https://jioukou.yosgo.com/)
 - [MediaTek](https://www.mediatek.tw/)
+- [Pelith](https://pelith.com/)
 - [Sligrid](https://sligrid.com/)
 - [Storipress](https://storipress.com/)
 - [Tagtoo](https://www.tagtoo.com.tw)
