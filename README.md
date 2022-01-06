@@ -17,6 +17,7 @@ Collecting the companies using GraphQL.
 - [Jioukou](https://jioukou.yosgo.com/)
 - [MediaTek](https://www.mediatek.tw/)
 - [Sligrid](https://sligrid.com/)
+- [Storipress](https://storipress.com/)
 - [Tagtoo](https://www.tagtoo.com.tw)
 - [Yoctol](https://www.yoctol.com/)
 - [91APP](https://www.91app.com/)
