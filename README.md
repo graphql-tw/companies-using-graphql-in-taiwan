@@ -20,6 +20,7 @@ Collecting the companies using GraphQL.
 - [MediaTek](https://www.mediatek.tw/)
 - [Pelith](https://pelith.com/)
 - [Sligrid](https://sligrid.com/)
+- [Sov 數位隱形矯正](https://sov.dental/)
 - [Storipress](https://storipress.com/)
 - [Tagtoo](https://www.tagtoo.com.tw)
 - [Yoctol](https://www.yoctol.com/)
