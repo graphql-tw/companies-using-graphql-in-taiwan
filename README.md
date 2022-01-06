@@ -14,6 +14,7 @@ Collecting the companies using GraphQL.
 - [Canner](https://www.canner.io)
 - [Codementor](https://www.codementor.io/)
 - [Deep Codify](https://deepcodify.com/)
+- [InfuseAI](https://www.infuseai.io/)
 - [iChef](https://www.ichefpos.com)
 - [Jioukou](https://jioukou.yosgo.com/)
 - [MediaTek](https://www.mediatek.tw/)
