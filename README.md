@@ -18,6 +18,7 @@ Collecting the companies using GraphQL.
 - [InfuseAI](https://www.infuseai.io/)
 - [iChef](https://www.ichefpos.com)
 - [Jioukou](https://jioukou.yosgo.com/)
+- [Linker Networks](https://www.linkernetworks.com/)
 - [MediaTek](https://www.mediatek.tw/)
 - [Pelith](https://pelith.com/)
 - [Sligrid](https://sligrid.com/)
