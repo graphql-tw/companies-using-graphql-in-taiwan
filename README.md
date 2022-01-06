@@ -4,25 +4,25 @@ Collecting the companies using GraphQL.
 
 <div align="center">
   <img width=480 src="https://user-images.githubusercontent.com/2382594/41636559-c4b00b54-7481-11e8-8c4a-772ab9a63acd.png" alt="GraphQL Taiwan Logo"> 
-	<br>
+  <br>
 </div>
 
 ## Companies
 
-- [Yoctol](https://www.yoctol.com/)
-- [MediaTek](https://www.mediatek.tw/)
-- [Jioukou](https://jioukou.yosgo.com/)
-- [Sligrid](https://sligrid.com/)
-- [Tagtoo](https://www.tagtoo.com.tw)
-- [Canner](https://www.canner.io)
 - [Appier](https://appier.com)
+- [Canner](https://www.canner.io)
 - [Codementor](https://www.codementor.io/)
 - [iChef](https://www.ichefpos.com)
+- [Jioukou](https://jioukou.yosgo.com/)
+- [MediaTek](https://www.mediatek.tw/)
+- [Sligrid](https://sligrid.com/)
+- [Tagtoo](https://www.tagtoo.com.tw)
+- [Yoctol](https://www.yoctol.com/)
 - [91APP](https://www.91app.com/)
 
 ## Contributing
 
-- PR is welcome.
+PR is welcome.
 
 ## License
 
