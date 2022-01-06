@@ -10,6 +10,7 @@ Collecting the companies using GraphQL.
 ## Companies
 
 - [Appier](https://appier.com)
+- [Branch8](https://www.branch8.com/)
 - [Canner](https://www.canner.io)
 - [Codementor](https://www.codementor.io/)
 - [iChef](https://www.ichefpos.com)
