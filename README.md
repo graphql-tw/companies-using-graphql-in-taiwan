@@ -1,13 +1,13 @@
-# Companies using GraphQL in Taiwan
+# 在台灣使用 GraphQL 的公司
 
-Collecting the companies using GraphQL.
+此 repo 用意在於盡力收集台灣有使用 GraphQL 的公司，促進台灣 GraphQL 技術發展與交流
 
 <div align="center">
   <img width=480 src="https://user-images.githubusercontent.com/2382594/41636559-c4b00b54-7481-11e8-8c4a-772ab9a63acd.png" alt="GraphQL Taiwan Logo"> 
   <br>
 </div>
 
-## Companies
+## 公司列表
 
 - [Appier](https://appier.com)
 - [Branch8](https://www.branch8.com/)
@@ -28,10 +28,7 @@ Collecting the companies using GraphQL.
 - [Yoctol](https://www.yoctol.com/)
 - [91APP](https://www.91app.com/)
 
-## Contributing
+## 貢獻
 
-PR is welcome.
+如果有知道其他公司有在使用 GraphQL，歡迎發 PR 補上
 
-## License
-
-MIT
