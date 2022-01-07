@@ -16,6 +16,7 @@
 - [Codementor](https://www.codementor.io/)
 - [Deep Codify](https://deepcodify.com/)
 - [Genie Networks](https://www.genie-networks.com/genieanalytics/)
+- [Hahow for Business](https://business.hahow.in/)
 - [InfuseAI](https://www.infuseai.io/)
 - [iChef](https://www.ichefpos.com)
 - [Jioukou](https://jioukou.yosgo.com/)
