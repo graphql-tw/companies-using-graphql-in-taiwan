@@ -21,6 +21,7 @@
 - [iChef](https://www.ichefpos.com)
 - [Jioukou](https://jioukou.yosgo.com/)
 - [Linker Networks](https://www.linkernetworks.com/)
+- [LINE - LINE 購物](https://buy.line.me/)
 - [MediaTek](https://www.mediatek.tw/)
 - [Pelith](https://pelith.com/)
 - [Sligrid](https://sligrid.com/)
