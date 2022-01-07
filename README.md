@@ -11,6 +11,7 @@
 
 - [Appier](https://appier.com)
 - [Branch8](https://www.branch8.com/)
+- [BRICKS](https://bricks.tools)
 - [Canner](https://www.canner.io)
 - [Codementor](https://www.codementor.io/)
 - [Deep Codify](https://deepcodify.com/)
