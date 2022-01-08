@@ -20,6 +20,7 @@
 - [InfuseAI](https://www.infuseai.io/)
 - [iChef](https://www.ichefpos.com)
 - [Jioukou](https://jioukou.yosgo.com/)
+- [佐登妮絲](https://www.jourdeness.com.tw/)
 - [Linker Networks](https://www.linkernetworks.com/)
 - [LINE - LINE 購物](https://buy.line.me/)
 - [MaiCoin](https://www.maicoin.com/)
