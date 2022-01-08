@@ -29,6 +29,7 @@
 - [Sov 數位隱形矯正](https://sov.dental/)
 - [Storipress](https://storipress.com/)
 - [Tagtoo](https://www.tagtoo.com.tw)
+- [Yahoo](https://www.yahooinc.com/)
 - [Yoctol](https://www.yoctol.com/)
 - [91APP](https://www.91app.com/)
 
