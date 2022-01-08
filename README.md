@@ -22,6 +22,7 @@
 - [Jioukou](https://jioukou.yosgo.com/)
 - [Linker Networks](https://www.linkernetworks.com/)
 - [LINE - LINE 購物](https://buy.line.me/)
+- [MaiCoin](https://www.maicoin.com/)
 - [MediaTek](https://www.mediatek.tw/)
 - [Pelith](https://pelith.com/)
 - [Sligrid](https://sligrid.com/)
