@@ -26,6 +26,7 @@
 - [MaiCoin](https://www.maicoin.com/)
 - [MediaTek](https://www.mediatek.tw/)
 - [Pelith](https://pelith.com/)
+- [QT Medical - 美商宇心生醫](https://www.qtmedical.com/)
 - [Sligrid](https://sligrid.com/)
 - [Sov 數位隱形矯正](https://sov.dental/)
 - [Storipress](https://storipress.com/)
