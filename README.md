@@ -21,6 +21,7 @@
 - [iChef](https://www.ichefpos.com)
 - [Jioukou](https://jioukou.yosgo.com/)
 - [Jourdeness 佐登妮絲](https://www.jourdeness.com.tw/)
+- [KKday](https://rezio.io/zh-TW)
 - [Linker Networks](https://www.linkernetworks.com/)
 - [LINE - LINE 購物](https://buy.line.me/)
 - [MaiCoin](https://www.maicoin.com/)
